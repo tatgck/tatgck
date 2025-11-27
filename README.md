@@ -16,12 +16,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatgck&theme=github-light&hide_border=false&area=true&cache_seconds=1800" alt="Activity Graph" />
 </p>
 
-<!-- 提交时段分布（按小时/星期几），关注“什么时候提交” -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tatgck&utcOffset=8&theme=default" alt="Commit Time (UTC+8)" />
-</p>
-
-<!-- 常用语言（可选） -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatgck&layout=compact&langs_count=10&theme=default&hide_border=false&cache_seconds=1800" alt="Top Langs" />
-</p>
